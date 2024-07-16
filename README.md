@@ -5,7 +5,7 @@
 
 
 ## What I´m currently studying?📚
-<p>I´m in my forth year of Computer engineering💻</p>
+<p>Finished my studies on July, 2024😊, Computer Science at Universidad Europea, Madrid</p>
 
 ## What projects have I done?💭
 <p>Some of my projects are the following ones:
@@ -16,6 +16,8 @@
     <li>Arts Club website</li>
     <li>Films recommender</li>
     <li>Travel manager application</li>
+    <li>Books web page</li>
+    <li>and more...</li>
   </ul>
 </p>
 
