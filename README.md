@@ -5,7 +5,7 @@
 
 
 ## What I´m currently studying?📚
-<p>Finished my studies on July, 2024😊, Computer Science at Universidad Europea, Madrid</p>
+<p>Finished my studies on July, 2024😊, Computer Science Engineering at Universidad Europea, Madrid</p>
 
 ## What projects have I done?💭
 <p>Some of my projects are the following ones:
