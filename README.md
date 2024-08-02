@@ -2,10 +2,19 @@
 <img src="images/Banner-Github.jpg"/>
 <hr>
 
-
+<div align="center">
+  <h2>Let´s get to know me!</h2>  
+</div>
 
 ## What I´m currently studying?📚
 <p>Finished my studies on July, 2024😊, Computer Science Engineering at Universidad Europea, Madrid</p>
+
+## Languages I speak🎇
+<ul>
+  <li>Spanish</li>
+  <li>English</li>
+  <li>Chinese</li>
+</ul>
 
 ## What projects have I done?💭
 <p>Some of my projects are the following ones:
@@ -69,13 +78,26 @@
 
 <hr>
 
-
+## My Stats📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Liixxn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liixxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Liixxn&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Liixxn&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+## Most use languages🔥
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liixxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liixxn&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+## Trophies🏆
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Liixxn&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 
