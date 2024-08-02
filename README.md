@@ -11,9 +11,9 @@
 
 ## Languages I speak🎇
 <ul>
-  <li>Spanish</li>
-  <li>English</li>
-  <li>Chinese</li>
+  <li><b>Spanish</b> - Native</li>
+  <li><b>English</b> - B2</li>
+  <li><b>Chinese</b> - B1</li>
 </ul>
 
 ## What projects have I done?💭
