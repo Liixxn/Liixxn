@@ -1,5 +1,5 @@
-<h1 align="center">👋🏻Hello everyone, I'm Lian Salmerón López🌟</h1>
-<img src="images/Banner-Github.jpg"/>
+<h1 align="center">👋🏻Hi, I'm Lian Salmerón López🌟</h1>
+<img src="images/Banner_Github.jpg"/>
 <hr>
 
 <div align="center">
